@@ -1,0 +1,129 @@
+.container{
+  display: block;
+  width: 100%;
+  padding: 5px 10px;
+  min-height: 100vh;
+  border-left: 1px solid rgb(222, 222, 222);
+
+}
+
+.header {
+    gap: 3rem;
+    margin: 2rem auto 1rem auto;
+    width: 90%;
+    max-width: 75rem;
+    color: black;
+    font-size: 1.5rem;
+  }
+  
+  .header h1 {
+    color:#1c936d ;
+    width: 400px;
+    font-size: 3rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .header p{
+    font-size: 20px;
+    line-height: 1.5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(121, 128, 134);
+  }
+
+  
+  .main {
+    width: 90%;
+    max-width: 75rem;
+    margin: 3rem auto;
+    color: white;
+  }
+  
+  .form {
+    max-width: 50rem;
+  }
+  
+  .form label {
+    display: block;
+    margin-top: 1.2rem;
+    margin-bottom: 0.5rem;
+    font-size: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    color:black;
+    font-weight: bold;
+  }
+  
+  .form input,
+  .form textarea {
+    display: block;
+    width: 100%;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    border: 1px solid #454952;
+    font-size: 1.25rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .form input:focus,
+  .form textarea:focus {
+    outline-color: black;
+ 
+  }
+
+  .form select,
+  .form option {
+    display: block;
+    width: 100%;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    border: 1px solid #454952;
+    font-size: 1.25rem;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .form select:focus,
+  .form option:focus {
+    outline-color: black;
+ 
+  }
+
+  .row {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .row p {
+    width: 100%;
+  }
+  
+  .actions {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .actions button {
+    border: 0;
+    height: 40px;
+    width: 100px;
+    background: #1db260;
+    border: none;
+    color: #ffffff;
+    border-radius: 15px;
+    cursor: pointer;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.0rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  }
+  
+  /* .actions button:hover,
+  .actions button:focus {
+    background: linear-gradient(90deg, #15cfa0, #61ffcd);
+  } */
+  
+  .actions button:disabled,
+  .actions button:hover:disabled,
+  .actions button:focus:disabled {
+    background: #ccc;
+    color: #979797;
+    cursor: not-allowed;
+  }

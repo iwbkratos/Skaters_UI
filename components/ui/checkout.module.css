@@ -1,0 +1,20 @@
+.header{
+    display: flex;
+}
+
+.cancel{
+    /* border: 1px solid  black; */
+    margin: 0px;
+    padding-left: 100px;
+    float: inline-end;
+}
+.container{
+    display: block;
+
+}
+
+.checkout{  
+    /* border: 1px solid black; */
+    width: 40px;
+    
+}

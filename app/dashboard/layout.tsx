@@ -1,11 +1,9 @@
-
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
-// import "./globals.css";
+import { DashboardPage } from "../../components/dashboard/dashboardlayout";
+ import '../globals.css'
+import { Layout } from "../../layout/layout";
 
-
-import ReduxProvider from "./reduxProvider";
-import { Layout } from "../layout/layout";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -24,17 +22,12 @@ export default function RootLayout({
 
 
   return (
-    
-    <html lang="en">
      
-      <body>
-       <ReduxProvider>
-         <Layout children={children}/>
-       </ReduxProvider>
-      
-      </body>
-
-    </html>
-    
+         <div className="dash"> 
+          <DashboardPage/>
+          {children}
+        </div >
+        
+   
   );
 }

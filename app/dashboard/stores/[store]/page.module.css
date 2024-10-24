@@ -1,0 +1,68 @@
+.container{
+    display: block;
+    width: 100%;
+}
+.headcontainer{
+    /* border: 1px solid black; */
+    width: 90%;
+    padding: 30px 30px ;
+    display:  flex;
+
+}
+.title h1{
+   
+
+    color:#1c936d ;
+    width: 400px;
+    font-size: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.title p{
+    /* border: 1px solid black; */
+
+    font-size: 20px;
+    line-height: 1.5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(121, 128, 134);
+    padding-bottom: 10px;
+}
+.title{
+    /* border: 1px solid black; */
+    width: 100%;
+    display: block;
+}
+.storelink{
+    padding-left: 40%;
+    padding-top: 40px;
+    display: flex;
+}
+
+.storelink button,.storelink button:hover{
+    text-decoration: none;
+    text-transform: none;
+    height: 40px;
+    width: 100px;
+    border-radius: 20px;
+    color: white;
+    background-color: #1c936d;
+}
+
+.container{
+    /* border:  1px solid black; */
+    /* height: 70vh; */
+    display: block;
+    width: 100%;
+    padding: 50px 50px;
+    min-height: 100vh;
+    border-left: 1px solid rgb(222, 222, 222);
+}
+.main{
+    /* border: 1px solid black; */
+    
+    
+}
+.productcontainer
+{
+    /* margin: 20px 20px; */
+    display: block;
+}

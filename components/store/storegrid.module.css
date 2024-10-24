@@ -1,0 +1,32 @@
+.path{
+    text-decoration: none;
+}
+.addprodbtn
+{
+    /* border: 1px solid black; */
+    width: 100%;
+    padding-left: 22%;
+}
+
+.addprodbtn button,.addprodbtn button:hover
+{
+    border: 1px solid rgb(229, 229, 229);
+    border-radius: 15px;
+    background-color:rgb(28, 147, 109)  ;
+    width: 130px;
+    height:33px ;
+    color: white;
+    cursor: pointer;
+    text-transform: none;
+}
+
+/* .addprodbtn button:hover
+{
+    border: 1px solid rgb(229, 229, 229);
+    border-radius: 15px;
+    background-color:rgb(28, 147, 109)  ;
+    width: 130px;
+    height:33px ;
+    color: white;
+    cursor: pointer;
+} */

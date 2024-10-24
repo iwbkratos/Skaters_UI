@@ -1,0 +1,47 @@
+
+.svg g{
+    color: rgb(255, 247, 0);
+}
+
+.link{
+    text-decoration: none;
+}
+.card{
+    /* border: 1px solid black; */
+    
+}
+.card:hover{
+     transform: scale(1.005);
+     transition-duration: 1s;
+     box-shadow: 5px,1px,2px,rgb(112, 112, 112);
+}
+.content{
+    /* border: 1px solid black; */
+    height: 100px;
+    padding-top: 10px;
+}
+.content h5{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.cart{
+    /* border: 1px solid black; */
+    border: none;
+    z-index: 1;
+    padding-left: 100%;
+   
+}
+
+
+.price{
+    /* border:  1px solid black; */
+    display: flex;
+    
+}
+.price h6{
+    padding-top: 5px;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

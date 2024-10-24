@@ -1,0 +1,44 @@
+.grid{
+    border: 1px solid rgb(218, 212, 212);
+}
+
+.grid:hover{
+    background-color: #1c936d;
+    /* cursor: pointer; */
+    color: white;
+    cursor: pointer;
+}
+.grid svg{
+    color: black;
+}
+
+.grid :hover h2,
+.grid :hover p
+ {
+    color: white;
+   }
+.link{
+    text-decoration: none;
+}
+.image{
+    height: 30px;
+    width: 30px;
+}
+.content{
+    padding-top: 2px;
+    width: 100%;
+    color:  #1c936d;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* border: 1px solid black; */
+}
+
+
+
+.content p{
+    /* border: 1px solid black; */
+    width: 100%;
+    color: rgb(121, 128, 134);
+}
+.grid{
+    border: 1px solid rgb(202, 202, 202);
+}

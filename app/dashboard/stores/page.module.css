@@ -1,0 +1,58 @@
+.maincontainer{
+    display: block;
+    width: 100%;
+    padding: 50px 50px;
+    min-height: 100vh;
+    border-left: 1px solid rgb(222, 222, 222);
+}
+.headcontainer{
+    /* border: 1px solid black; */
+    width: 40%;
+    
+    display:  flex;
+}
+.title h1{
+    /* border:  1px solid black; */
+    color:#1c936d ;
+    width: 400px;
+    font-size: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.title p{
+    /* border:  1px solid black; */
+    font-size: 20px;
+    line-height: 1.5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(121, 128, 134);
+    padding-bottom: 10px;
+}
+.title{
+    display: block;
+}
+.storelink{
+    padding-left: 100%;
+    padding-top: 40px;
+    width: 100%;
+}
+.container{
+    /* border:  1px solid black; */
+
+    /* height: 60vh; */
+    /* padding: 50px 50px; */
+    /* display: inline-flex; */
+   
+}
+.main{
+    /* border: 1px solid black; */
+    width: 100%;
+}
+
+.storelink button{
+    border: 1px solid rgb(229, 229, 229);
+    border-radius: 15px;
+    background-color:rgb(28, 147, 109)  ;
+    width: 130px;
+    height:33px ;
+    color: white;
+    cursor: pointer;
+}

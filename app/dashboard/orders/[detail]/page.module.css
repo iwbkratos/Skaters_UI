@@ -1,0 +1,112 @@
+
+.container
+{
+    display: block;
+    width: 100%;
+    padding: 30px 30px;
+    min-height: 100vh;
+    border-left: 1px solid rgb(222, 222, 222);
+}
+
+.head
+{
+    /* border: 1px solid black; */
+    padding-left: 20px;
+   
+    padding-top: 50px;
+   
+}
+.head>h1
+{
+   font-weight: 400;
+   font-family: poppins,sans-serif;
+}
+.table{
+    padding-left: 30px;
+    
+}
+.table table
+{
+    padding: 10px 10px 10px 10px;
+    
+    min-width: 650px;
+    border-collapse: collapse;
+}
+.table table tr{
+   
+    align-items: center;
+    text-align: center;
+}
+
+.table table td
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-family: poppins,sans-serif;
+}
+.order
+{
+    padding-left: 20px;
+    padding-top: 30px;
+    /* border: 1px solid black; */
+}
+
+.ordercontent
+{
+    /* border: 1px solid black; */
+    display: flex;
+    padding-top: 10px;
+}
+.ordercontent>h3
+{
+   font-weight: 300;
+   font-family: poppins,sans-serif;
+}
+.ordercontent>p
+{
+   font-size: large;
+   font-family: poppins,sans-serif;
+}
+.head2
+{
+    /* border: 1px solid black; */
+    padding-left: 20px;
+    padding-top: 35px;
+    padding-bottom: 30px;
+}
+.head2>h1
+{
+    font-weight: 400;
+    font-family: poppins,sans-serif;
+}
+
+.foot
+{
+    /* border: 1px solid black; */
+    display: flex;
+    
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.total h2
+{
+ color: rgb(249, 115, 22);
+ font-family: poppins,sans-serif;
+}
+.amount{
+   padding-left:80% ;
+}
+.amount p{
+    font-size: 1.2rem;
+    color: rgb(249, 115, 22);
+    font-family: poppins,sans-serif;
+}
+.table th
+{
+    font-size: 1.3rem;
+    font-family: poppins,sans-serif;
+    padding-bottom: 15px;
+    border-bottom: 0.5px solid rgb(209, 207, 207);
+}

@@ -1,0 +1,66 @@
+.container
+{
+  display: block;
+  width: 100%;
+}
+
+.header {
+    /* gap: 1rem; */
+    /* margin: 1rem auto 2rem auto; */
+    width: 90%;
+    max-width: 75rem;
+    color: rgb(121, 128, 134);
+   
+    font-size: 1rem;
+  }
+  
+  .header h1 {
+    font-family: 'Montserrat', sans-serif;
+    color:#1c936d ;
+  }
+  
+  .main {
+    width: 90%;
+    max-width: 75rem;
+    margin: 3rem auto;
+    color: white;
+  }
+  
+  .form {
+    max-width: 50rem;
+  }
+  .name input{
+    color: black;
+  }
+  
+  .form label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-size: 1rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+  }
+  
+  .form input,
+  .form textarea {
+    display: block;
+    width: 100%;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    border: 1px solid black;
+    font-size: 1.25rem;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+
+  
+  .row {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .row p {
+    width: 100%;
+  }
+  
+  

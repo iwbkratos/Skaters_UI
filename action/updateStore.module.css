@@ -1,0 +1,102 @@
+.container
+{
+  display: block;
+  width: 100%;
+}
+
+.header {
+    /* gap: 3rem; */
+    margin: 0.5rem auto 0.5rem auto;
+    width: 90%;
+    max-width: 75rem;
+    color: rgb(121, 128, 134);
+   
+    font-size: 1.0rem;
+  }
+  
+  .header h1 {
+    font-family: 'Montserrat', sans-serif;
+    color:#1c936d ;
+  }
+  
+  .main {
+    width: 90%;
+    max-width: 75rem;
+    margin: 1rem auto;
+    color: white;
+  }
+  
+  .form {
+    max-width: 50rem;
+  }
+  .name input{
+    color: black;
+  }
+  
+  .name label {
+    display: block;
+    margin-top: 0.5rem;
+    font-size: 1rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+  }
+  
+  .form input,
+  .form textarea {
+    display: block;
+    width: 100%;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    border: 1px solid black;
+    font-size: 1.25rem;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+
+  
+  .row {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .row p {
+    width: 100%;
+  }
+  
+  .actions {
+    text-align: center;
+    display: flex;
+    margin-top: 20px;
+  }
+  
+  .actions button {
+    border: 0;
+    height: 40px;
+    width: 100px;
+    background: #1db260;
+    border: none;
+    color: #ffffff;
+    border-radius: 15px;
+    cursor: pointer;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.0rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  }
+  
+  .actions button:hover{
+    border: 0;
+    height: 40px;
+    width: 100px;
+    background: #1db260;
+    border: none;
+    color: #ffffff;
+    border-radius: 15px;
+    cursor: pointer;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.0rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  }
+
+  .actions div{
+    padding-right: 20px;
+  }

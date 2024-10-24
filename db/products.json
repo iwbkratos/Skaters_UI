@@ -1,0 +1,846 @@
+[
+    {
+      "id": "aefb34ca-52d3-46a3-926b-17cb01aa7222",
+      "name": "w434343",
+      "slug": "w434343",
+      "description": "we",
+      "price": "3324",
+      "images": [
+        {
+          "key": "61e51105-0c84-4ff3-af5f-86068b79dcfa-z0xgv1.jpg",
+          "url": "https://utfs.io/f/61e51105-0c84-4ff3-af5f-86068b79dcfa-z0xgv1.jpg",
+          "name": "20170930_071233.jpg",
+          "size": 1486057,
+          "fileKey": "61e51105-0c84-4ff3-af5f-86068b79dcfa-z0xgv1.jpg",
+          "fileUrl": "https://utfs.io/f/61e51105-0c84-4ff3-af5f-86068b79dcfa-z0xgv1.jpg",
+          "fileName": "20170930_071233.jpg",
+          "fileSize": 1486057
+        }
+      ],
+      "storeId": "jevbna",
+      "categoryId": "shoes",
+      "createdAt": "2024-06-01T03:39:17.052Z",
+      "updatedAt": "2024-06-01T03:39:17.052Z",
+      "Category": {
+        "slug": "shoes",
+        "name": "Shoes"
+      }
+    },
+    {
+      "id": "0e99b8b1-050c-48f1-8d64-6825760dbae7",
+      "name": "cihuy",
+      "slug": "cihuy",
+      "description": "j",
+      "price": "1000",
+      "images": [
+        {
+          "key": "9523fc29-ea68-456d-9a6d-19f457dbffcf-bvpfg4.jpg",
+          "url": "https://utfs.io/f/9523fc29-ea68-456d-9a6d-19f457dbffcf-bvpfg4.jpg",
+          "name": "Image 1.jpg",
+          "size": 31576,
+          "fileKey": "9523fc29-ea68-456d-9a6d-19f457dbffcf-bvpfg4.jpg",
+          "fileUrl": "https://utfs.io/f/9523fc29-ea68-456d-9a6d-19f457dbffcf-bvpfg4.jpg",
+          "fileName": "Image 1.jpg",
+          "fileSize": 31576
+        }
+      ],
+      "storeId": "zaxch",
+      "categoryId": "skateboards",
+      "createdAt": "2024-05-29T14:51:37.169Z",
+      "updatedAt": "2024-05-29T14:51:37.169Z",
+      "Category": {
+        "slug": "skateboards",
+        "name": "Skateboards"
+      }
+    },
+    {
+      "id": "8efa6152-95a8-4693-86f0-7d51c460f448",
+      "name": "Test",
+      "slug": "test",
+      "description": "Test product",
+      "price": "1000",
+      "images": [
+        {
+          "key": "a8e1411f-4bfc-4df6-8af6-42d0b94dfb1f-fpw67x.jpg",
+          "url": "https://utfs.io/f/a8e1411f-4bfc-4df6-8af6-42d0b94dfb1f-fpw67x.jpg",
+          "name": "company.jpg",
+          "size": 158799,
+          "fileKey": "a8e1411f-4bfc-4df6-8af6-42d0b94dfb1f-fpw67x.jpg",
+          "fileUrl": "https://utfs.io/f/a8e1411f-4bfc-4df6-8af6-42d0b94dfb1f-fpw67x.jpg",
+          "fileName": "company.jpg",
+          "fileSize": 158799
+        }
+      ],
+      "storeId": "julian",
+      "categoryId": "clothing",
+      "createdAt": "2024-05-28T14:52:00.028Z",
+      "updatedAt": "2024-05-28T14:52:00.028Z",
+      "Category": {
+        "slug": "clothing",
+        "name": "Clothing"
+      }
+    },
+    {
+      "id": "81c2f10e-c880-4bba-97e6-1f3f2bab677f",
+      "name": "ball",
+      "slug": "ball",
+      "description": "qwe",
+      "price": "100000",
+      "images": [
+        {
+          "key": "ca93fcba-7b56-4a08-bc11-ece89869baa1-1c.jpg",
+          "url": "https://utfs.io/f/ca93fcba-7b56-4a08-bc11-ece89869baa1-1c.jpg",
+          "name": "0.jpg",
+          "size": 69670,
+          "fileKey": "ca93fcba-7b56-4a08-bc11-ece89869baa1-1c.jpg",
+          "fileUrl": "https://utfs.io/f/ca93fcba-7b56-4a08-bc11-ece89869baa1-1c.jpg",
+          "fileName": "0.jpg",
+          "fileSize": 69670
+        }
+      ],
+      "storeId": "qqq",
+      "categoryId": "shoes",
+      "createdAt": "2024-05-27T05:18:42.256Z",
+      "updatedAt": "2024-05-27T05:18:42.256Z",
+      "Category": {
+        "slug": "shoes",
+        "name": "Shoes"
+      }
+    },
+    {
+      "id": "0d5e8ba6-7abb-48f5-81be-72b3aa359688",
+      "name": "sadsa",
+      "slug": "sadsa",
+      "description": "dsadadsa",
+      "price": "343432",
+      "images": [
+        {
+          "key": "f4d76c3a-3b65-417a-b786-fca434636a7f-3d3xbm.jpg",
+          "url": "https://utfs.io/f/f4d76c3a-3b65-417a-b786-fca434636a7f-3d3xbm.jpg",
+          "name": "headphone.jpg",
+          "size": 34167,
+          "fileKey": "f4d76c3a-3b65-417a-b786-fca434636a7f-3d3xbm.jpg",
+          "fileUrl": "https://utfs.io/f/f4d76c3a-3b65-417a-b786-fca434636a7f-3d3xbm.jpg",
+          "fileName": "headphone.jpg",
+          "fileSize": 34167
+        }
+      ],
+      "storeId": "hello",
+      "categoryId": "clothing",
+      "createdAt": "2024-05-21T17:33:26.054Z",
+      "updatedAt": "2024-05-21T17:33:26.054Z",
+      "Category": {
+        "slug": "clothing",
+        "name": "Clothing"
+      }
+    },
+    {
+      "id": "d18b4e16-3c91-4df6-b703-f82e0cdacd5e",
+      "name": "sadsad",
+      "slug": "sadsad",
+      "description": "",
+      "price": "10000",
+      "images": [
+        {
+          "key": "e9bc1084-3d81-4899-ac14-7e531b3596ec-vmbc5b.png",
+          "url": "https://utfs.io/f/e9bc1084-3d81-4899-ac14-7e531b3596ec-vmbc5b.png",
+          "name": "image-1.png",
+          "size": 50321,
+          "fileKey": "e9bc1084-3d81-4899-ac14-7e531b3596ec-vmbc5b.png",
+          "fileUrl": "https://utfs.io/f/e9bc1084-3d81-4899-ac14-7e531b3596ec-vmbc5b.png",
+          "fileName": "image-1.png",
+          "fileSize": 50321
+        }
+      ],
+      "storeId": "product-1",
+      "categoryId": "clothing",
+      "createdAt": "2024-05-20T13:46:07.033Z",
+      "updatedAt": "2024-05-20T13:46:07.033Z",
+      "Category": {
+        "slug": "clothing",
+        "name": "Clothing"
+      }
+    },
+    {
+      "id": "2a90c7bd-9e43-47a2-8d70-49c603700b7f",
+      "name": "shoe",
+      "slug": "shoe",
+      "description": "this is shoes",
+      "price": "1297",
+      "images": [
+        {
+          "key": "edf723da-cb1e-4f9f-b759-0518079a3a8d-a04k3h.png",
+          "url": "https://utfs.io/f/edf723da-cb1e-4f9f-b759-0518079a3a8d-a04k3h.png",
+          "name": "Screenshot 2024-04-10 at 9.48.10 PM.png",
+          "size": 82502,
+          "fileKey": "edf723da-cb1e-4f9f-b759-0518079a3a8d-a04k3h.png",
+          "fileUrl": "https://utfs.io/f/edf723da-cb1e-4f9f-b759-0518079a3a8d-a04k3h.png",
+          "fileName": "Screenshot 2024-04-10 at 9.48.10 PM.png",
+          "fileSize": 82502
+        },
+        {
+          "key": "8506b3eb-dd79-41ed-9e16-f6e4d4f68045-z3hhfw.png",
+          "url": "https://utfs.io/f/8506b3eb-dd79-41ed-9e16-f6e4d4f68045-z3hhfw.png",
+          "name": "Screenshot 2024-04-30 at 10.56.44 AM.png",
+          "size": 862426,
+          "fileKey": "8506b3eb-dd79-41ed-9e16-f6e4d4f68045-z3hhfw.png",
+          "fileUrl": "https://utfs.io/f/8506b3eb-dd79-41ed-9e16-f6e4d4f68045-z3hhfw.png",
+          "fileName": "Screenshot 2024-04-30 at 10.56.44 AM.png",
+          "fileSize": 862426
+        },
+        {
+          "key": "aac5163e-3791-4069-8bff-842b55610d87-yj07yy.png",
+          "url": "https://utfs.io/f/aac5163e-3791-4069-8bff-842b55610d87-yj07yy.png",
+          "name": "Screenshot 2024-04-30 at 10.59.36 AM.png",
+          "size": 827366,
+          "fileKey": "aac5163e-3791-4069-8bff-842b55610d87-yj07yy.png",
+          "fileUrl": "https://utfs.io/f/aac5163e-3791-4069-8bff-842b55610d87-yj07yy.png",
+          "fileName": "Screenshot 2024-04-30 at 10.59.36 AM.png",
+          "fileSize": 827366
+        }
+      ],
+      "storeId": "test12",
+      "categoryId": "shoes",
+      "createdAt": "2024-05-18T04:22:20.132Z",
+      "updatedAt": "2024-05-18T04:22:20.132Z",
+      "Category": {
+        "slug": "shoes",
+        "name": "Shoes"
+      }
+    },
+    {
+      "id": "f35d39dd-d530-460c-912f-d329a1e9022e",
+      "name": "wsr",
+      "slug": "wsr",
+      "description": "",
+      "price": "5444",
+      "images": [
+        {
+          "key": "4d1dc759-4cf9-4728-8528-042c004bf06c-j0w2op.png",
+          "url": "https://utfs.io/f/4d1dc759-4cf9-4728-8528-042c004bf06c-j0w2op.png",
+          "name": "Screenshot 2024-05-04 102454.png",
+          "size": 46297,
+          "fileKey": "4d1dc759-4cf9-4728-8528-042c004bf06c-j0w2op.png",
+          "fileUrl": "https://utfs.io/f/4d1dc759-4cf9-4728-8528-042c004bf06c-j0w2op.png",
+          "fileName": "Screenshot 2024-05-04 102454.png",
+          "fileSize": 46297
+        }
+      ],
+      "storeId": "test1",
+      "categoryId": "clothing",
+      "createdAt": "2024-05-07T22:23:45.328Z",
+      "updatedAt": "2024-05-07T22:23:45.328Z",
+      "Category": {
+        "slug": "clothing",
+        "name": "Clothing"
+      }
+    },
+
+
+
+
+
+
+
+    
+  {
+    "id": "0e99b8b1-050c-48f1-8d64-6825760dbae7",
+    "name": "cihuy",
+    "slug": "cihuy",
+    "description": "j",
+    "price": "1000",
+    "images": [
+      {
+        "key": "9523fc29-ea68-456d-9a6d-19f457dbffcf-bvpfg4.jpg",
+        "url": "https://utfs.io/f/9523fc29-ea68-456d-9a6d-19f457dbffcf-bvpfg4.jpg",
+        "name": "Image 1.jpg",
+        "size": 31576,
+        "fileKey": "9523fc29-ea68-456d-9a6d-19f457dbffcf-bvpfg4.jpg",
+        "fileUrl": "https://utfs.io/f/9523fc29-ea68-456d-9a6d-19f457dbffcf-bvpfg4.jpg",
+        "fileName": "Image 1.jpg",
+        "fileSize": 31576
+      }
+    ],
+    "storeId": "zaxch",
+    "categoryId": "skateboards",
+    "createdAt": "2024-05-29T14:51:37.169Z",
+    "updatedAt": "2024-05-29T14:51:37.169Z",
+    "Category": {
+      "slug": "skateboards",
+      "name": "Skateboards"
+    }
+  },
+  {
+    "id": "acf43b2e-fa87-485a-be06-c8f1d82449cb",
+    "name": "Something Pretty",
+    "slug": "something-pretty",
+    "description": "Prettier when you buy it.",
+    "price": "30000",
+    "images": [
+      {
+        "key": "1c33757c-a1d3-46b7-8d6d-16a137aa876b-7nh8yx.jpg",
+        "url": "https://utfs.io/f/1c33757c-a1d3-46b7-8d6d-16a137aa876b-7nh8yx.jpg",
+        "name": "shopping-cart-with-pill-foils-copy-space.jpg",
+        "size": 931022,
+        "fileKey": "1c33757c-a1d3-46b7-8d6d-16a137aa876b-7nh8yx.jpg",
+        "fileUrl": "https://utfs.io/f/1c33757c-a1d3-46b7-8d6d-16a137aa876b-7nh8yx.jpg",
+        "fileName": "shopping-cart-with-pill-foils-copy-space.jpg",
+        "fileSize": 931022
+      }
+    ],
+    "storeId": "circuit-city",
+    "categoryId": "skateboards",
+    "createdAt": "2024-02-22T15:03:10.707Z",
+    "updatedAt": "2024-02-22T15:03:10.707Z",
+    "Category": {
+      "slug": "skateboards",
+      "name": "Skateboards"
+    }
+  },
+  {
+    "id": "d943f086-882d-4cf5-abf8-86b4a81c079b",
+    "name": "Pinky board 😍",
+    "slug": "pinky-board",
+    "description": "Pinkyyyy",
+    "price": "150000",
+    "images": [
+      {
+        "key": "7a6395f5-813b-4bc7-9e41-751de10ceec7-rvnbh6.webp",
+        "url": "https://utfs.io/f/7a6395f5-813b-4bc7-9e41-751de10ceec7-rvnbh6.webp",
+        "name": "trinity-treft-LUEsyYVyyiw-unsplash.webp",
+        "size": 56580,
+        "fileKey": "7a6395f5-813b-4bc7-9e41-751de10ceec7-rvnbh6.webp",
+        "fileUrl": "https://utfs.io/f/7a6395f5-813b-4bc7-9e41-751de10ceec7-rvnbh6.webp",
+        "fileName": "trinity-treft-LUEsyYVyyiw-unsplash.webp",
+        "fileSize": 56580
+      },
+      {
+        "key": "70f64c63-da40-4efd-aa1b-2d63ea8cf8da-8rx7ed.jpg",
+        "url": "https://utfs.io/f/70f64c63-da40-4efd-aa1b-2d63ea8cf8da-8rx7ed.jpg",
+        "name": "trinity-treft-pSZJ0w_ecrA-unsplash.jpg",
+        "size": 2848290,
+        "fileKey": "70f64c63-da40-4efd-aa1b-2d63ea8cf8da-8rx7ed.jpg",
+        "fileUrl": "https://utfs.io/f/70f64c63-da40-4efd-aa1b-2d63ea8cf8da-8rx7ed.jpg",
+        "fileName": "trinity-treft-pSZJ0w_ecrA-unsplash.jpg",
+        "fileSize": 2848290
+      },
+      {
+        "key": "4a3563b6-d894-44c6-a1ca-644273f76004-qmh6we.jpg",
+        "url": "https://utfs.io/f/4a3563b6-d894-44c6-a1ca-644273f76004-qmh6we.jpg",
+        "name": "maksym-zakharyak-IjPWFZncmxs-unsplash.jpg",
+        "size": 1327877,
+        "fileKey": "4a3563b6-d894-44c6-a1ca-644273f76004-qmh6we.jpg",
+        "fileUrl": "https://utfs.io/f/4a3563b6-d894-44c6-a1ca-644273f76004-qmh6we.jpg",
+        "fileName": "maksym-zakharyak-IjPWFZncmxs-unsplash.jpg",
+        "fileSize": 1327877
+      }
+    ],
+    "storeId": "skate-store",
+    "categoryId": "skateboards",
+    "createdAt": "2024-01-24T04:05:31.153Z",
+    "updatedAt": "2024-01-24T04:05:31.153Z",
+    "Category": {
+      "slug": "skateboards",
+      "name": "Skateboards"
+    }
+  },
+
+ 
+  
+
+
+
+  {
+    "id": "fbb4f573-b3fb-47ab-b983-9c76e660387b",
+    "name": "Naphat ",
+    "slug": "naphat",
+    "description": "Human Traffic - Hi dear developer, thank you for deploying such an amazing app.",
+    "price": "1000",
+    "images": [
+      {
+        "key": "930193d1-d721-4b1f-8c68-ab1febf687e3-13fn5i.drawio.png",
+        "url": "https://utfs.io/f/930193d1-d721-4b1f-8c68-ab1febf687e3-13fn5i.drawio.png",
+        "name": "ERDv5.drawio.png",
+        "size": 116019,
+        "fileKey": "930193d1-d721-4b1f-8c68-ab1febf687e3-13fn5i.drawio.png",
+        "fileUrl": "https://utfs.io/f/930193d1-d721-4b1f-8c68-ab1febf687e3-13fn5i.drawio.png",
+        "fileName": "ERDv5.drawio.png",
+        "fileSize": 116019
+      }
+    ],
+    "storeId": "123sharkontheground",
+    "categoryId": "accessories",
+    "createdAt": "2024-04-21T16:38:53.976Z",
+    "updatedAt": "2024-04-21T16:41:40.305Z",
+    "Category": {
+      "slug": "accessories",
+      "name": "Accessories"
+    }
+  },
+  {
+    "id": "533b7ed4-6429-4520-828a-cf3e3f1bb54b",
+    "name": "stiker meja",
+    "slug": "stiker-meja",
+    "description": "stiker meja mantap",
+    "price": "10000",
+    "images": [
+      {
+        "key": "5ef2c525-4ad7-4bc7-b5d8-24c22f137deb-9lkmj2.png",
+        "url": "https://utfs.io/f/5ef2c525-4ad7-4bc7-b5d8-24c22f137deb-9lkmj2.png",
+        "name": "furniture.png",
+        "size": 1671,
+        "fileKey": "5ef2c525-4ad7-4bc7-b5d8-24c22f137deb-9lkmj2.png",
+        "fileUrl": "https://utfs.io/f/5ef2c525-4ad7-4bc7-b5d8-24c22f137deb-9lkmj2.png",
+        "fileName": "furniture.png",
+        "fileSize": 1671
+      }
+    ],
+    "storeId": "pretprot",
+    "categoryId": "accessories",
+    "createdAt": "2024-04-19T12:06:30.841Z",
+    "updatedAt": "2024-04-19T12:06:30.841Z",
+    "Category": {
+      "slug": "accessories",
+      "name": "Accessories"
+    }
+  },
+  {
+    "id": "ad373095-a360-45e4-8f1e-da3078fd3c2b",
+    "name": "Ak ",
+    "slug": "ak",
+    "description": "Senjata csgo",
+    "price": "50000",
+    "images": [
+      {
+        "key": "e6db80d4-39b2-42bf-9aef-af6571d6bf2c-7ks5r9.miui.gallery.jpg",
+        "url": "https://utfs.io/f/e6db80d4-39b2-42bf-9aef-af6571d6bf2c-7ks5r9.miui.gallery.jpg",
+        "name": "Screenshot_2023-09-30-08-12-30-083_com.miui.gallery.jpg",
+        "size": 468274,
+        "fileKey": "e6db80d4-39b2-42bf-9aef-af6571d6bf2c-7ks5r9.miui.gallery.jpg",
+        "fileUrl": "https://utfs.io/f/e6db80d4-39b2-42bf-9aef-af6571d6bf2c-7ks5r9.miui.gallery.jpg",
+        "fileName": "Screenshot_2023-09-30-08-12-30-083_com.miui.gallery.jpg",
+        "fileSize": 468274
+      }
+    ],
+    "storeId": "uwaka",
+    "categoryId": "accessories",
+    "createdAt": "2024-03-01T19:23:37.636Z",
+    "updatedAt": "2024-03-01T19:23:37.636Z",
+    "Category": {
+      "slug": "accessories",
+      "name": "Accessories"
+    }
+  },
+  {
+    "id": "0ac30e6e-b964-4fcd-a563-eabd07138c6f",
+    "name": "VGA rusak",
+    "slug": "vga-rusak",
+    "description": "Punya sekolah",
+    "price": "1000",
+    "images": [
+      {
+        "key": "4108754b-6343-4dfd-b633-fb3363cc8042-axwyb3.jpg",
+        "url": "https://utfs.io/f/4108754b-6343-4dfd-b633-fb3363cc8042-axwyb3.jpg",
+        "name": "IMG_20240124_112030_247.jpg",
+        "size": 1123176,
+        "fileKey": "4108754b-6343-4dfd-b633-fb3363cc8042-axwyb3.jpg",
+        "fileUrl": "https://utfs.io/f/4108754b-6343-4dfd-b633-fb3363cc8042-axwyb3.jpg",
+        "fileName": "IMG_20240124_112030_247.jpg",
+        "fileSize": 1123176
+      }
+    ],
+    "storeId": "toko-ga-jelas",
+    "categoryId": "accessories",
+    "createdAt": "2024-01-24T04:21:55.645Z",
+    "updatedAt": "2024-01-24T04:21:55.645Z",
+    "Category": {
+      "slug": "accessories",
+      "name": "Accessories"
+    }
+  },
+  {
+    "id": "77e9e699-97ec-40b7-b50f-426675198407",
+    "name": "Kentang Asli Swedia",
+    "slug": "kentang-asli-swedia",
+    "description": "Kentang kayak hp mu",
+    "price": "275000",
+    "images": [
+      {
+        "key": "3fb0dfed-6e15-4893-bf40-f1ad48c2586d-92zxge.jpg",
+        "url": "https://utfs.io/f/3fb0dfed-6e15-4893-bf40-f1ad48c2586d-92zxge.jpg",
+        "name": "jenis_jenis_kentang_06_ebddff3a58.jpg",
+        "size": 30573,
+        "fileKey": "3fb0dfed-6e15-4893-bf40-f1ad48c2586d-92zxge.jpg",
+        "fileUrl": "https://utfs.io/f/3fb0dfed-6e15-4893-bf40-f1ad48c2586d-92zxge.jpg",
+        "fileName": "jenis_jenis_kentang_06_ebddff3a58.jpg",
+        "fileSize": 30573
+      }
+    ],
+    "storeId": "toko-ga-jelas",
+    "categoryId": "accessories",
+    "createdAt": "2024-01-24T04:05:22.378Z",
+    "updatedAt": "2024-01-24T04:05:22.378Z",
+    "Category": {
+      "slug": "accessories",
+      "name": "Accessories"
+    }
+  },
+  {
+    "id": "71bae955-cedf-4d36-9168-20d9b58f9808",
+    "name": "Headset Gaming Bluetooth",
+    "slug": "headset-gaming-bluetooth",
+    "description": "Headset Mahal warna item",
+    "price": "500000",
+    "images": [
+      {
+        "key": "c3280524-806b-40b8-8b16-0aa66a2d2bee-5w6ete.jpg",
+        "url": "https://utfs.io/f/c3280524-806b-40b8-8b16-0aa66a2d2bee-5w6ete.jpg",
+        "name": "tomasz-gawlowski-YDZPdqv3FcA-unsplash.jpg",
+        "size": 706158,
+        "fileKey": "c3280524-806b-40b8-8b16-0aa66a2d2bee-5w6ete.jpg",
+        "fileUrl": "https://utfs.io/f/c3280524-806b-40b8-8b16-0aa66a2d2bee-5w6ete.jpg",
+        "fileName": "tomasz-gawlowski-YDZPdqv3FcA-unsplash.jpg",
+        "fileSize": 706158
+      },
+      {
+        "key": "2e590c39-70de-4b39-99dc-97883d38b442-dq69gh.jpg",
+        "url": "https://utfs.io/f/2e590c39-70de-4b39-99dc-97883d38b442-dq69gh.jpg",
+        "name": "luke-peterson-lUMj2Zv5HUE-unsplash.jpg",
+        "size": 1178746,
+        "fileKey": "2e590c39-70de-4b39-99dc-97883d38b442-dq69gh.jpg",
+        "fileUrl": "https://utfs.io/f/2e590c39-70de-4b39-99dc-97883d38b442-dq69gh.jpg",
+        "fileName": "luke-peterson-lUMj2Zv5HUE-unsplash.jpg",
+        "fileSize": 1178746
+      }
+    ],
+    "storeId": "mango-store",
+    "categoryId": "accessories",
+    "createdAt": "2024-01-24T04:03:48.123Z",
+    "updatedAt": "2024-01-24T04:03:48.123Z",
+    "Category": {
+      "slug": "accessories",
+      "name": "Accessories"
+    }
+  },
+  {
+    "id": "05637f43-88f1-4363-ba40-9cef6503dc7c",
+    "name": "Hp Mangga RAM 0.5GB",
+    "slug": "hp-mangga-ram-0.5gb",
+    "description": "HP Unik sejuta umat",
+    "price": "2000",
+    "images": [
+      {
+        "key": "ca0f357f-5a78-4283-9a03-1d5557e70e1e-2y8o3j.jpg",
+        "url": "https://utfs.io/f/ca0f357f-5a78-4283-9a03-1d5557e70e1e-2y8o3j.jpg",
+        "name": "hp mangga.jpg",
+        "size": 14958,
+        "fileKey": "ca0f357f-5a78-4283-9a03-1d5557e70e1e-2y8o3j.jpg",
+        "fileUrl": "https://utfs.io/f/ca0f357f-5a78-4283-9a03-1d5557e70e1e-2y8o3j.jpg",
+        "fileName": "hp mangga.jpg",
+        "fileSize": 14958
+      }
+    ],
+    "storeId": "mango-store",
+    "categoryId": "accessories",
+    "createdAt": "2024-01-24T03:58:11.954Z",
+    "updatedAt": "2024-01-24T03:58:11.954Z",
+    "Category": {
+      "slug": "accessories",
+      "name": "Accessories"
+    }
+  },
+  {
+    "id": "83931752-9c5d-4fb2-b6ea-1f1d90e6c215",
+    "name": "Keyboard Gimang Warna Item",
+    "slug": "keyboard-gimang-warna-item",
+    "description": "Mahal asw",
+    "price": "5700000",
+    "images": [
+      {
+        "key": "25331081-b11b-4aca-8900-64d2a819e2cb-mspqo6.jpg",
+        "url": "https://utfs.io/f/25331081-b11b-4aca-8900-64d2a819e2cb-mspqo6.jpg",
+        "name": "martin-garrido-cVUPic1cbd4-unsplash.jpg",
+        "size": 827676,
+        "fileKey": "25331081-b11b-4aca-8900-64d2a819e2cb-mspqo6.jpg",
+        "fileUrl": "https://utfs.io/f/25331081-b11b-4aca-8900-64d2a819e2cb-mspqo6.jpg",
+        "fileName": "martin-garrido-cVUPic1cbd4-unsplash.jpg",
+        "fileSize": 827676
+      },
+      {
+        "key": "ac8622d2-5263-4752-b538-6a5ebec97909-p6pmio.jpg",
+        "url": "https://utfs.io/f/ac8622d2-5263-4752-b538-6a5ebec97909-p6pmio.jpg",
+        "name": "stefen-tan-KYw1eUx1J7Y-unsplash.jpg",
+        "size": 1346726,
+        "fileKey": "ac8622d2-5263-4752-b538-6a5ebec97909-p6pmio.jpg",
+        "fileUrl": "https://utfs.io/f/ac8622d2-5263-4752-b538-6a5ebec97909-p6pmio.jpg",
+        "fileName": "stefen-tan-KYw1eUx1J7Y-unsplash.jpg",
+        "fileSize": 1346726
+      }
+    ],
+    "storeId": "mango-store",
+    "categoryId": "accessories",
+    "createdAt": "2024-01-24T03:55:41.416Z",
+    "updatedAt": "2024-01-24T03:55:41.416Z",
+    "Category": {
+      "slug": "accessories",
+      "name": "Accessories"
+    }
+  },
+
+
+
+
+
+
+
+
+  {
+    "id": "aefb34ca-52d3-46a3-926b-17cb01aa7222",
+    "name": "w434343",
+    "slug": "w434343",
+    "description": "we",
+    "price": "3324",
+    "images": [
+      {
+        "key": "61e51105-0c84-4ff3-af5f-86068b79dcfa-z0xgv1.jpg",
+        "url": "https://utfs.io/f/61e51105-0c84-4ff3-af5f-86068b79dcfa-z0xgv1.jpg",
+        "name": "20170930_071233.jpg",
+        "size": 1486057,
+        "fileKey": "61e51105-0c84-4ff3-af5f-86068b79dcfa-z0xgv1.jpg",
+        "fileUrl": "https://utfs.io/f/61e51105-0c84-4ff3-af5f-86068b79dcfa-z0xgv1.jpg",
+        "fileName": "20170930_071233.jpg",
+        "fileSize": 1486057
+      }
+    ],
+    "storeId": "jevbna",
+    "categoryId": "shoes",
+    "createdAt": "2024-06-01T03:39:17.052Z",
+    "updatedAt": "2024-06-01T03:39:17.052Z",
+    "Category": {
+      "slug": "shoes",
+      "name": "Shoes"
+    }
+  },
+  {
+    "id": "81c2f10e-c880-4bba-97e6-1f3f2bab677f",
+    "name": "ball",
+    "slug": "ball",
+    "description": "qwe",
+    "price": "100000",
+    "images": [
+      {
+        "key": "ca93fcba-7b56-4a08-bc11-ece89869baa1-1c.jpg",
+        "url": "https://utfs.io/f/ca93fcba-7b56-4a08-bc11-ece89869baa1-1c.jpg",
+        "name": "0.jpg",
+        "size": 69670,
+        "fileKey": "ca93fcba-7b56-4a08-bc11-ece89869baa1-1c.jpg",
+        "fileUrl": "https://utfs.io/f/ca93fcba-7b56-4a08-bc11-ece89869baa1-1c.jpg",
+        "fileName": "0.jpg",
+        "fileSize": 69670
+      }
+    ],
+    "storeId": "qqq",
+    "categoryId": "shoes",
+    "createdAt": "2024-05-27T05:18:42.256Z",
+    "updatedAt": "2024-05-27T05:18:42.256Z",
+    "Category": {
+      "slug": "shoes",
+      "name": "Shoes"
+    }
+  },
+  {
+    "id": "2a90c7bd-9e43-47a2-8d70-49c603700b7f",
+    "name": "shoe",
+    "slug": "shoe",
+    "description": "this is shoes",
+    "price": "1297",
+    "images": [
+      {
+        "key": "edf723da-cb1e-4f9f-b759-0518079a3a8d-a04k3h.png",
+        "url": "https://utfs.io/f/edf723da-cb1e-4f9f-b759-0518079a3a8d-a04k3h.png",
+        "name": "Screenshot 2024-04-10 at 9.48.10 PM.png",
+        "size": 82502,
+        "fileKey": "edf723da-cb1e-4f9f-b759-0518079a3a8d-a04k3h.png",
+        "fileUrl": "https://utfs.io/f/edf723da-cb1e-4f9f-b759-0518079a3a8d-a04k3h.png",
+        "fileName": "Screenshot 2024-04-10 at 9.48.10 PM.png",
+        "fileSize": 82502
+      },
+      {
+        "key": "8506b3eb-dd79-41ed-9e16-f6e4d4f68045-z3hhfw.png",
+        "url": "https://utfs.io/f/8506b3eb-dd79-41ed-9e16-f6e4d4f68045-z3hhfw.png",
+        "name": "Screenshot 2024-04-30 at 10.56.44 AM.png",
+        "size": 862426,
+        "fileKey": "8506b3eb-dd79-41ed-9e16-f6e4d4f68045-z3hhfw.png",
+        "fileUrl": "https://utfs.io/f/8506b3eb-dd79-41ed-9e16-f6e4d4f68045-z3hhfw.png",
+        "fileName": "Screenshot 2024-04-30 at 10.56.44 AM.png",
+        "fileSize": 862426
+      },
+      {
+        "key": "aac5163e-3791-4069-8bff-842b55610d87-yj07yy.png",
+        "url": "https://utfs.io/f/aac5163e-3791-4069-8bff-842b55610d87-yj07yy.png",
+        "name": "Screenshot 2024-04-30 at 10.59.36 AM.png",
+        "size": 827366,
+        "fileKey": "aac5163e-3791-4069-8bff-842b55610d87-yj07yy.png",
+        "fileUrl": "https://utfs.io/f/aac5163e-3791-4069-8bff-842b55610d87-yj07yy.png",
+        "fileName": "Screenshot 2024-04-30 at 10.59.36 AM.png",
+        "fileSize": 827366
+      }
+    ],
+    "storeId": "test12",
+    "categoryId": "shoes",
+    "createdAt": "2024-05-18T04:22:20.132Z",
+    "updatedAt": "2024-05-18T04:22:20.132Z",
+    "Category": {
+      "slug": "shoes",
+      "name": "Shoes"
+    }
+  },
+  {
+    "id": "a069972c-3729-410c-a8e2-2eaf09b05397",
+    "name": "dsaad",
+    "slug": "dsaad",
+    "description": "sad",
+    "price": "9999",
+    "images": [
+      {
+        "key": "c5f0e845-0efe-4aa1-92fb-518c7c89dd5e-y5365i.jpg",
+        "url": "https://utfs.io/f/c5f0e845-0efe-4aa1-92fb-518c7c89dd5e-y5365i.jpg",
+        "name": "gfx100s_sample_04_thum-1.jpg",
+        "size": 91091,
+        "fileKey": "c5f0e845-0efe-4aa1-92fb-518c7c89dd5e-y5365i.jpg",
+        "fileUrl": "https://utfs.io/f/c5f0e845-0efe-4aa1-92fb-518c7c89dd5e-y5365i.jpg",
+        "fileName": "gfx100s_sample_04_thum-1.jpg",
+        "fileSize": 91091
+      },
+      {
+        "key": "1f184d6f-06a0-47be-a195-e3031391c4a3-y5365i.jpg",
+        "url": "https://utfs.io/f/1f184d6f-06a0-47be-a195-e3031391c4a3-y5365i.jpg",
+        "name": "gfx100s_sample_04_thum-1.jpg",
+        "size": 91091,
+        "fileKey": "1f184d6f-06a0-47be-a195-e3031391c4a3-y5365i.jpg",
+        "fileUrl": "https://utfs.io/f/1f184d6f-06a0-47be-a195-e3031391c4a3-y5365i.jpg",
+        "fileName": "gfx100s_sample_04_thum-1.jpg",
+        "fileSize": 91091
+      }
+    ],
+    "storeId": "898",
+    "categoryId": "shoes",
+    "createdAt": "2024-05-04T00:56:15.634Z",
+    "updatedAt": "2024-05-28T19:10:13.156Z",
+    "Category": {
+      "slug": "shoes",
+      "name": "Shoes"
+    }
+  },
+  {
+    "id": "4fd03622-37d6-42f5-ba35-d875b9c6fe08",
+    "name": "spekies",
+    "slug": "spekies",
+    "description": "test",
+    "price": "1000",
+    "images": [
+      {
+        "key": "93425309-3b34-4c9b-b88d-e39ecb992602-4jla0a.jpg",
+        "url": "https://utfs.io/f/93425309-3b34-4c9b-b88d-e39ecb992602-4jla0a.jpg",
+        "name": "hacker-3480124_1920.jpg",
+        "size": 562752,
+        "fileKey": "93425309-3b34-4c9b-b88d-e39ecb992602-4jla0a.jpg",
+        "fileUrl": "https://utfs.io/f/93425309-3b34-4c9b-b88d-e39ecb992602-4jla0a.jpg",
+        "fileName": "hacker-3480124_1920.jpg",
+        "fileSize": 562752
+      }
+    ],
+    "storeId": "spekies",
+    "categoryId": "shoes",
+    "createdAt": "2024-04-23T08:27:24.655Z",
+    "updatedAt": "2024-04-23T08:27:24.655Z",
+    "Category": {
+      "slug": "shoes",
+      "name": "Shoes"
+    }
+  },
+  {
+    "id": "35aa273e-f3a0-425e-ba63-ce805e679c6d",
+    "name": "john henry",
+    "slug": "john-henry",
+    "description": "good foot",
+    "price": "644738",
+    "images": [
+      {
+        "key": "8acd55c2-3fdb-4fbc-b3be-cf9be3f16408-8m2pw0.png",
+        "url": "https://utfs.io/f/8acd55c2-3fdb-4fbc-b3be-cf9be3f16408-8m2pw0.png",
+        "name": "auth error.png",
+        "size": 838111,
+        "fileKey": "8acd55c2-3fdb-4fbc-b3be-cf9be3f16408-8m2pw0.png",
+        "fileUrl": "https://utfs.io/f/8acd55c2-3fdb-4fbc-b3be-cf9be3f16408-8m2pw0.png",
+        "fileName": "auth error.png",
+        "fileSize": 838111
+      }
+    ],
+    "storeId": "tough-steel-gates",
+    "categoryId": "shoes",
+    "createdAt": "2024-03-26T12:05:29.307Z",
+    "updatedAt": "2024-03-26T12:05:29.307Z",
+    "Category": {
+      "slug": "shoes",
+      "name": "Shoes"
+    }
+  },
+  {
+    "id": "ea169093-34a8-4a6e-95d9-b58bdfd3fd3f",
+    "name": "Testing",
+    "slug": "testing",
+    "description": "test",
+    "price": "5500",
+    "images": [
+      {
+        "key": "9e8a8d36-7691-4203-97d8-340d8914d7e3-1wkca.jpg",
+        "url": "https://utfs.io/f/9e8a8d36-7691-4203-97d8-340d8914d7e3-1wkca.jpg",
+        "name": "hero.jpg",
+        "size": 331433,
+        "fileKey": "9e8a8d36-7691-4203-97d8-340d8914d7e3-1wkca.jpg",
+        "fileUrl": "https://utfs.io/f/9e8a8d36-7691-4203-97d8-340d8914d7e3-1wkca.jpg",
+        "fileName": "hero.jpg",
+        "fileSize": 331433
+      }
+    ],
+    "storeId": "unique-enterprises",
+    "categoryId": "shoes",
+    "createdAt": "2024-02-29T13:45:18.385Z",
+    "updatedAt": "2024-02-29T13:45:18.385Z",
+    "Category": {
+      "slug": "shoes",
+      "name": "Shoes"
+    }
+  },
+  {
+    "id": "266b7ec5-7683-4009-98b3-29fb04ecd9d7",
+    "name": "Kompetitor",
+    "slug": "kompetitor",
+    "description": "Kompetitor",
+    "price": "2000",
+    "images": [
+      {
+        "key": "82c38f4b-faa2-47cc-bc64-e2769a30d976-743160.jpg",
+        "url": "https://utfs.io/f/82c38f4b-faa2-47cc-bc64-e2769a30d976-743160.jpg",
+        "name": "tokopedia.jpg",
+        "size": 49930,
+        "fileKey": "82c38f4b-faa2-47cc-bc64-e2769a30d976-743160.jpg",
+        "fileUrl": "https://utfs.io/f/82c38f4b-faa2-47cc-bc64-e2769a30d976-743160.jpg",
+        "fileName": "tokopedia.jpg",
+        "fileSize": 49930
+      }
+    ],
+    "storeId": "toko-jaya",
+    "categoryId": "shoes",
+    "createdAt": "2024-02-28T14:00:51.009Z",
+    "updatedAt": "2024-02-28T14:00:51.009Z",
+    "Category": {
+      "slug": "shoes",
+      "name": "Shoes"
+    }
+  }
+
+]
+
+
